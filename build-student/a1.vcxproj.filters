@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\student\a1\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\support\image.cpp">
+      <Filter>Support</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\student\a1\scene.frag">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\student\a1\scene.vert">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\support\course.hpp">
+      <Filter>Support</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\student\a1\mesh.hpp">
+      <Filter>Assignments\a1</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Assignments">
+      <UniqueIdentifier>{4D7B0126-F705-3604-9783-8CAA27B274D6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assignments\a1">
+      <UniqueIdentifier>{3DA9D698-131A-3A34-8E41-1C5404FF8440}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{D2498BDE-B237-3C55-B847-38DFBA444835}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3394F02E-1CBB-32C1-92FD-218EDCFCBD09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Support">
+      <UniqueIdentifier>{F44D4B76-9CCF-33B8-A80F-7D79FED68743}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
