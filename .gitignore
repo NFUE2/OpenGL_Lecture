@@ -1,0 +1,5 @@
+# CMake / Visual Studio 빌드 산출물 — PC마다 절대경로가 박히므로 저장소에 올리지 않는다.
+build-*/
+out/
+.vs/
+vcpkg_installed/
