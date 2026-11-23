@@ -1,51 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\student\a2\main.cpp">
+    <ClCompile Include="D:\Github\OpenGL_Lecture\student\a2\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\support\image.cpp">
+    <ClCompile Include="D:\Github\OpenGL_Lecture\support\image.cpp">
       <Filter>Support</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\student\a2\scene.frag">
+    <ClInclude Include="D:\Github\OpenGL_Lecture\student\a2\scene.frag">
       <Filter>Shaders</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\student\a2\scene.vert">
+    <ClInclude Include="D:\Github\OpenGL_Lecture\student\a2\scene.vert">
       <Filter>Shaders</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\support\course.hpp">
+    <ClInclude Include="D:\Github\OpenGL_Lecture\support\course.hpp">
       <Filter>Support</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\student\a1\mesh.hpp">
+    <ClInclude Include="D:\Github\OpenGL_Lecture\student\a1\mesh.hpp">
       <Filter>Assignments\a1</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\student\a2\objects.hpp">
+    <ClInclude Include="D:\Github\OpenGL_Lecture\student\a2\objects.hpp">
       <Filter>Assignments\a2</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\CMakeLists.txt" />
+    <CustomBuild Include="D:\Github\OpenGL_Lecture\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Assignments">
-      <UniqueIdentifier>{4D7B0126-F705-3604-9783-8CAA27B274D6}</UniqueIdentifier>
+      <UniqueIdentifier>{B0E34A3E-18BF-3CEE-8E28-1B13AFB134D1}</UniqueIdentifier>
     </Filter>
     <Filter Include="Assignments\a1">
-      <UniqueIdentifier>{3DA9D698-131A-3A34-8E41-1C5404FF8440}</UniqueIdentifier>
+      <UniqueIdentifier>{FBD0CD85-CF2F-3DBE-A255-02570D76906D}</UniqueIdentifier>
     </Filter>
     <Filter Include="Assignments\a2">
-      <UniqueIdentifier>{DA2AF09E-5D0F-3305-8582-06150BD4907D}</UniqueIdentifier>
+      <UniqueIdentifier>{CD146648-C031-3714-88D7-F5F4E1010B91}</UniqueIdentifier>
     </Filter>
     <Filter Include="Shaders">
-      <UniqueIdentifier>{D2498BDE-B237-3C55-B847-38DFBA444835}</UniqueIdentifier>
+      <UniqueIdentifier>{64C9043B-1FA0-3BA6-8E9B-DA561B9A8394}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{3394F02E-1CBB-32C1-92FD-218EDCFCBD09}</UniqueIdentifier>
+      <UniqueIdentifier>{7930FEFC-D2EA-337F-8FE8-E8B93D6FE709}</UniqueIdentifier>
     </Filter>
     <Filter Include="Support">
-      <UniqueIdentifier>{F44D4B76-9CCF-33B8-A80F-7D79FED68743}</UniqueIdentifier>
+      <UniqueIdentifier>{2920B782-13F3-303B-BC1D-49C811AF3A67}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

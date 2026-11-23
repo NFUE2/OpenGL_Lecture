@@ -1,12 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\BCA-PC10\\Desktop\\Project\\GraphicsAssignments\\build-student\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Github\\OpenGL_Lecture\\build-student\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD197C5E-08A6-3451-8F14-78219E3BE707}|a1.vcxproj|D:\\Github\\OpenGL_Lecture\\student\\a1\\mesh.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD197C5E-08A6-3451-8F14-78219E3BE707}|a1.vcxproj|D:\\Github\\OpenGL_Lecture\\support\\course.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD197C5E-08A6-3451-8F14-78219E3BE707}|a1.vcxproj|D:\\Github\\OpenGL_Lecture\\student\\a1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 152,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Github\\OpenGL_Lecture\\student\\a1\\main.cpp",
+              "RelativeDocumentMoniker": "..\\student\\a1\\main.cpp",
+              "ToolTip": "D:\\Github\\OpenGL_Lecture\\student\\a1\\main.cpp",
+              "RelativeToolTip": "..\\student\\a1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-23T10:04:16.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "course.hpp",
+              "DocumentMoniker": "D:\\Github\\OpenGL_Lecture\\support\\course.hpp",
+              "RelativeDocumentMoniker": "..\\support\\course.hpp",
+              "ToolTip": "D:\\Github\\OpenGL_Lecture\\support\\course.hpp",
+              "RelativeToolTip": "..\\support\\course.hpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAG8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-23T12:35:36.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mesh.hpp",
+              "DocumentMoniker": "D:\\Github\\OpenGL_Lecture\\student\\a1\\mesh.hpp",
+              "RelativeDocumentMoniker": "..\\student\\a1\\mesh.hpp",
+              "ToolTip": "D:\\Github\\OpenGL_Lecture\\student\\a1\\mesh.hpp",
+              "RelativeToolTip": "..\\student\\a1\\mesh.hpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswFsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-23T08:18:47.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

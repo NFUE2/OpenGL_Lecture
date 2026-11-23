@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\BCA-PC10\Desktop\Project\GraphicsAssignments\build-student\CMakeFiles\1775bf0066584105a87bd8d2ac9aff81\generate.stamp.rule">
+    <CustomBuild Include="D:\Github\OpenGL_Lecture\build-student\CMakeFiles\2de7ccd5a0d09372d9a359f02110a5f4\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{AFCAE8CC-EFDB-34FD-81C5-23EB2DC378F5}</UniqueIdentifier>
+      <UniqueIdentifier>{051D429E-5ADA-3881-8DF6-5BF1E91F637E}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

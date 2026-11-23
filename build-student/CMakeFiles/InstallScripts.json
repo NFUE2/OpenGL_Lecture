@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/cmake_install.cmake"
+		"D:/Github/OpenGL_Lecture/build-student/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

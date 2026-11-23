@@ -94,21 +94,21 @@ C:/Program Files/CMake/share/cmake-4.5/Modules/Platform/Windows-MSVC.cmake
 C:/Program Files/CMake/share/cmake-4.5/Modules/Platform/Windows.cmake
 C:/Program Files/CMake/share/cmake-4.5/Modules/Platform/WindowsPaths.cmake
 C:/Program Files/CMake/share/cmake-4.5/Modules/SelectLibraryConfigurations.cmake
-C:/Users/BCA-PC10/AppData/Local/graphics-course/vcpkg/scripts/buildsystems/vcpkg.cmake
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/CMakeLists.txt
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/CMakeFiles/4.5.0-rc3/CMakeCXXCompiler.cmake
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/CMakeFiles/4.5.0-rc3/CMakeRCCompiler.cmake
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/CMakeFiles/4.5.0-rc3/CMakeSystem.cmake
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/CMakeFiles/cmake.verify_globs
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/vcpkg_installed/x64-windows/share/glew/CopyImportedTargetProperties.cmake
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/vcpkg_installed/x64-windows/share/glew/glew-config.cmake
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/vcpkg_installed/x64-windows/share/glew/glew-targets-debug.cmake
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/vcpkg_installed/x64-windows/share/glew/glew-targets-release.cmake
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/vcpkg_installed/x64-windows/share/glew/glew-targets.cmake
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/vcpkg_installed/x64-windows/share/glew/vcpkg-cmake-wrapper.cmake
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/vcpkg_installed/x64-windows/share/glfw3/glfw3Config.cmake
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/vcpkg_installed/x64-windows/share/glfw3/glfw3ConfigVersion.cmake
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets-debug.cmake
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets-release.cmake
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/build-student/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets.cmake
-C:/Users/BCA-PC10/Desktop/Project/GraphicsAssignments/vcpkg.json
+C:/Users/NFU/AppData/Local/graphics-course/vcpkg/scripts/buildsystems/vcpkg.cmake
+D:/Github/OpenGL_Lecture/CMakeLists.txt
+D:/Github/OpenGL_Lecture/build-student/CMakeFiles/4.5.1/CMakeCXXCompiler.cmake
+D:/Github/OpenGL_Lecture/build-student/CMakeFiles/4.5.1/CMakeRCCompiler.cmake
+D:/Github/OpenGL_Lecture/build-student/CMakeFiles/4.5.1/CMakeSystem.cmake
+D:/Github/OpenGL_Lecture/build-student/CMakeFiles/cmake.verify_globs
+D:/Github/OpenGL_Lecture/build-student/vcpkg_installed/x64-windows/share/glew/CopyImportedTargetProperties.cmake
+D:/Github/OpenGL_Lecture/build-student/vcpkg_installed/x64-windows/share/glew/glew-config.cmake
+D:/Github/OpenGL_Lecture/build-student/vcpkg_installed/x64-windows/share/glew/glew-targets-debug.cmake
+D:/Github/OpenGL_Lecture/build-student/vcpkg_installed/x64-windows/share/glew/glew-targets-release.cmake
+D:/Github/OpenGL_Lecture/build-student/vcpkg_installed/x64-windows/share/glew/glew-targets.cmake
+D:/Github/OpenGL_Lecture/build-student/vcpkg_installed/x64-windows/share/glew/vcpkg-cmake-wrapper.cmake
+D:/Github/OpenGL_Lecture/build-student/vcpkg_installed/x64-windows/share/glfw3/glfw3Config.cmake
+D:/Github/OpenGL_Lecture/build-student/vcpkg_installed/x64-windows/share/glfw3/glfw3ConfigVersion.cmake
+D:/Github/OpenGL_Lecture/build-student/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets-debug.cmake
+D:/Github/OpenGL_Lecture/build-student/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets-release.cmake
+D:/Github/OpenGL_Lecture/build-student/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets.cmake
+D:/Github/OpenGL_Lecture/vcpkg.json

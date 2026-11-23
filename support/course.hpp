@@ -86,12 +86,48 @@ struct Mat3
     }
 };
 
+struct Vector2
+{
+    float x = 0.0f, y = 0.0f;
+};
+
 // u/v are reserved in A1-A3. A4 connects them to a vertex attribute.
 struct Vertex
 {
     float x = 0.0f, y = 0.0f;
     float r = 0.0f, g = 0.0f, b = 0.0f;
     float u = 0.0f, v = 0.0f;
+
+    Vertex operator*= (const float a)
+    {
+        x *= a;
+        y *= a;
+        return *this;
+    }
+
+
+    Vertex operator+= (const Vector2 vec)
+    {
+        x += vec.x;
+        y += vec.y;
+
+        return *this;
+    }
+
+    Vertex operator+= (const Vertex vertext)
+    {
+        this->x += vertext.x;
+        this->y += vertext.y;
+
+        this->r += vertext.r;
+        this->g += vertext.g;
+        this->b += vertext.b;
+
+        this->u += vertext.u;
+        this->v += vertext.v;
+
+        return *this;
+    }
 };
 
 
